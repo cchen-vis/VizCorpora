@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/VizCorpora/static/css/main.073c9b0a.css",
-    "main.js": "/VizCorpora/static/js/main.692d6355.js",
+    "main.js": "/VizCorpora/static/js/main.e9b2ccc4.js",
     "static/js/787.28cb0dcd.chunk.js": "/VizCorpora/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/VizCorpora/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/VizCorpora/index.html",
     "main.073c9b0a.css.map": "/VizCorpora/static/css/main.073c9b0a.css.map",
-    "main.692d6355.js.map": "/VizCorpora/static/js/main.692d6355.js.map",
+    "main.e9b2ccc4.js.map": "/VizCorpora/static/js/main.e9b2ccc4.js.map",
     "787.28cb0dcd.chunk.js.map": "/VizCorpora/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.692d6355.js"
+    "static/js/main.e9b2ccc4.js"
   ]
 }
