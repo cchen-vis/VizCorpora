@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VizCorpora/static/css/main.b951f664.css",
-    "main.js": "/VizCorpora/static/js/main.8b4bca00.js",
+    "main.js": "/VizCorpora/static/js/main.0fd398b3.js",
     "index.html": "/VizCorpora/index.html",
     "main.b951f664.css.map": "/VizCorpora/static/css/main.b951f664.css.map",
-    "main.8b4bca00.js.map": "/VizCorpora/static/js/main.8b4bca00.js.map"
+    "main.0fd398b3.js.map": "/VizCorpora/static/js/main.0fd398b3.js.map"
   },
   "entrypoints": [
     "static/css/main.b951f664.css",
-    "static/js/main.8b4bca00.js"
+    "static/js/main.0fd398b3.js"
   ]
 }
